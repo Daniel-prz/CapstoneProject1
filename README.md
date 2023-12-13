@@ -61,11 +61,33 @@ ShopSite
 - Add search button svg to shop site
 - Add some JS functionality, either Cart or Log In/Sign Up
 
-### Day 2: [Date]
-
-_Repeat the same structure as Day 1_
+---
 
 ---
+
+### Day 2: [Date]
+
+PortalPage
+
+- no changes
+
+SHop Site
+
+- Created cart page, deleted reset
+- added images, and img text
+- styled elements with Bootstrap and CSS
+- added buttons with SVG from ChatGPT
+- asked ChatGPT questions and tips to help build my page
+
+---
+
+- Got through some styling issues and brushed up on CSS, specifically with buttons, and text styling
+
+---
+
+- Gained knowledge of use of AI (specifically Google Bard and ChatGPT) for assistance, code generation, and code review, including use of prompts, attribution, and carefully checking code for common possible bugs
+- Gained knowledge of SVG element use
+- Gained knowledge of text and box styling, specifically with images, backgrounds, and shadows
 
 ### Day 3: [Date]
 
